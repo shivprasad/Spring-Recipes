@@ -1,0 +1,11 @@
+jar {
+    baseName = 'rest-service'
+    version =  '0.1.0'
+}
+
+dependencies {
+    compile("org.springframework.boot:spring-boot-starter-web")
+    testCompile("junit:junit")
+}
+
+

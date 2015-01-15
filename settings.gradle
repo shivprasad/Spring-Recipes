@@ -1,0 +1,18 @@
+rootProject.name = 'Spring-Recipes'
+
+include 'rest-service'
+
+include 'scheduling-tasks'
+
+include 'device-detection'
+
+include 'consuming-rest'
+
+include 'uploading-files'
+
+include 'messaging-redis'
+
+include 'messaging-rabbitmq'
+
+include 'accessing-data-neo4j'
+
